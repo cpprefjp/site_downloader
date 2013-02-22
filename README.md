@@ -1,4 +1,4 @@
-cpprefjp_downloader
+site_downloader
 ===================
 
-cpprefjpからリファレンスのhtmlを引っ張ってくる
+cpprefjpからリファレンスのhtmlを引っ張ってくるGoogle App Script
